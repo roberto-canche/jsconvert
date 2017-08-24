@@ -1,6 +1,6 @@
 # Js Convert
 
-Es un idioma inventado para el curso de fundamentos de javascript
+Es un modulo que traduce palabras a un idioma inventado.
 
 ## Descripcion del idioma
 
@@ -28,7 +28,7 @@ jsconvert("sometemos") // SoMeTeMoS
 ```
 
 ## Créditos
-- [Roberto Canche](http://midominio.com/)
+- [Roberto Canche](http://robertocanche.xyz/)
 
 ## Licencia
 
